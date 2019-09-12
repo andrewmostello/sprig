@@ -9,6 +9,7 @@ require (
 	github.com/huandu/xstrings v1.2.0
 	github.com/imdario/mergo v0.3.7
 	github.com/mitchellh/copystructure v1.0.0
+	github.com/shopspring/decimal v0.0.0-20191130220710-360f2bc03045
 	github.com/spf13/cast v1.3.0
 	github.com/stretchr/testify v1.4.0
 	golang.org/x/crypto v0.0.0-20190911031432-227b76d455e7
